@@ -1,6 +1,7 @@
 verify certificate : https://labs.cyberwarfare.live/credential/achievement/6ad6f6d2b6d122ea6a9b27bf
 
 Certificate ID: BTF-6ad6f6d2b6d122ea6a9b27bf
+
 Date: 20 October 2026  
 Issued by **CyberWarfare Labs (CWL)**  
 
